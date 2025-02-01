@@ -1,0 +1,9 @@
+{
+  "name": "snake-game-ai",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.5.9"
+  }
+}
